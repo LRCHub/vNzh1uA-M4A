@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "少女ロボット",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T14:26:04.471256Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "少女ロボット",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_少女ロボット_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shōjo Robot [少女ロボット]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/02_Shōjo_Robot_[少女ロボット]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "少女ロボット",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_少女ロボット_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "少女ロボット",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/04_少女ロボット_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "少女ロボット",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/05_少女ロボット_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "少女ロボット",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/06_少女ロボット_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女ロボット",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_少女ロボット_東京事変.txt"
+    }
+  ]
+}
